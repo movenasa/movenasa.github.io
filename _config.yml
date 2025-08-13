@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Yuanda Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Yuanda Wang"
+description              : &description "Yuanda Wang received his B.E. degree from Beijing University of Posts and Telecommunications(BUPT), Beijing, China, in 2024. He is currently working toward the master’s degree at Peking University. His research interest include system security and AI for security."
+url                      : https://movenasa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "movenasa/movenasa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuanda Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Yuanda Wang received his B.E. degree from Beijing University of Posts and Telecommunications(BUPT), Beijing, China, in 2024. He is currently working toward the master’s degree at Peking University. His research interest include system security and AI for security."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yuandawang958@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
