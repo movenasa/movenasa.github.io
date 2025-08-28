@@ -26,7 +26,7 @@ author:
   name             : "Yuanda Wang"
   pronouns         : # example: "she/her"  
   bio              : "Yuanda Wang received his B.E. degree from Beijing University of Posts and Telecommunications(BUPT), Beijing, China, in 2024. He is currently working toward the master’s degree at Peking University. His research interest include system security and AI for security."
-  location         : "Earth"
+  location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
   email            : "yuandawang958@stu.pku.edu.cn" 
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=9mBk0z0AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "movenasa"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

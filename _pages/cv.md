@@ -11,54 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Intelligent Science and Technology, Peking University, 2024-present
+* B.E. in Automation, Beijing University of Posts and Telecommunications, 2024
+  * Ranked 2/108 in major
+  * Beijing Outstanding Graduate, BUPT Outstanding Graduate
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-present: Core Team Member
+  * Peking University - Wang Xuan Institute of Computer Technology
+  * Research focus: AI-empowered system security
+  * Activities: Intelligent attack and defense, model training, adversarial experiments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-present: Core Developer
+  * Tsinghua University - Network Group
+  * Projects: CALLEE cross-architecture migration, MLM training
+  * Activities: Academic discussions, collaborative research
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Work Experience
+======
+* ByteDance - Seed Talent Program Intern
+  * Model training and architecture development
+  * Ray framework development for large-scale GPU training
+  * GPU experience: Huawei cards, H20, L20, A100
+
+* Huaqing Weiyang - Research Intern
+  * Cross-architecture binary research
+  * Qwen-3 fine-tuning for code similarity identification
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C, C++, Java
+* Machine Learning: Deep Learning, Model Training, Fine-tuning
+* System Security: Binary Analysis, Cross-architecture Migration
+* Hardware: GPU Training (Huawei, H20, L20, A100)
+* Research: Academic Writing, Experiment Design
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards and Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* National College Mathematics Competition: 2nd Prize (13th), 3rd Prize (14th)
+* Beijing Mathematics Competition: 1st Prize (32nd), 2nd Prize (33rd)
+* Beijing Outstanding Graduate, BUPT Outstanding Graduate
+* Beijing 2022 Winter Olympics & Paralympics Outstanding Volunteer
+* Multiple academic scholarships and "Three Good Students" awards
