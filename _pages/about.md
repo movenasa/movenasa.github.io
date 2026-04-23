@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-**YuanDa Wang**
-**Master's Student | School of Intelligence, Peking University** (Sep 2024 - Present)
+**Master's Student | Wang Xuan Institute of Computer Technology, Peking University** (Sep 2024 - Present)
 My research focuses on **AI for Security**, **Binary Analysis**, and **LLM Alignment and Reasoning Optimization**. Deeply engaged in both academia and the tech industry, I am dedicated to leveraging artificial intelligence to solve fundamental system security challenges.
 
 -----
@@ -27,11 +26,16 @@ My research focuses on **AI for Security**, **Binary Analysis**, and **LLM Align
 
 ### Education
 
-  * **Peking University** | M.S. in Intelligent Science and Technology (2024 - Present)
+  * **Peking University** | M.S. in Wang Xuan Institute of Computer Technology (2024 - Present)
   * **Beijing University of Posts and Telecommunications (BUPT)** | B.S. in Automation (2020 - 2024)
------
 
 ## Internship Experience
+
+### **Alibaba** | AAGI Research Intern
+
+  * **Core Responsibilities:** Focused on Large Language Model (LLM) alignment, specifically designing Process Reward Models (PRM) and self-evolving mechanisms to enhance complex reasoning capabilities.
+  * **Technical Achievements:** Engineered and deployed process-level reward models integrated with reinforcement learning algorithms (such as GRPO) to provide granular, step-by-step supervision for multi-turn reasoning and tool-integrated tasks.
+  * **Expertise:** Developed a self-evolving framework that leverages automated verification and continuous feedback loops, enabling the model to autonomously iterate and optimize its reasoning policy without extensive human annotation.
 
 ### **ByteDance** | Seed Talent Program - Seedance Intern
 
